@@ -7,24 +7,6 @@
 <br />
 
 <div align="center">
-  <!-- Build Status -->
-  <a href="">
-    <img src="https://gitlab.bluesource.at/bs_projects/huawei/choicesdk/android/badges/develop/pipeline.svg?style=flat-square"
-      alt="Build Status" />
-  </a>
-  <!-- Test Coverage -->
-  <a href="">
-    <img src="https://gitlab.bluesource.at/bs_projects/huawei/choicesdk/android/badges/develop/coverage.svg?style=flat-square"
-      alt="Test Coverage" />
-  </a>
-  <!-- Latest version 
-  <a href="">
-    <img src=""
-      alt="Latest version" />
-  </a>-->
-</div>
-
-<div align="center">
   <h3>
     <a href="https://developer.huawei.com/consumer/en/doc/10123">
       HMS Reference
@@ -33,11 +15,12 @@
     <a href="https://developers.google.com/android">
       GMS Reference
     </a>
+<!--
     <span> | </span>
     <a href="https://gitlab.bluesource.at/bs_projects/huawei/choicesdk/android/-/tree/master/ChoiceSDK/choicesdk-app">
       Sample app
     </a>
-  
+-->
   </h3>
 </div>
 
